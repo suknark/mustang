@@ -1,0 +1,7 @@
+/mustang
+/dist/
+/icon/*.png
+/icon/*.icns
+/icon/Mustang.iconset/
+.claude/
+.DS_Store
